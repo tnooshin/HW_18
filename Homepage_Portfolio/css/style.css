@@ -1,0 +1,89 @@
+/* .topNav{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    
+} */
+.nav{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    color: red;
+    
+   
+}
+.logo{
+    /* padding: 30px;
+    margin-left: 20px;
+    margin-top: 20px; */
+    width: 45vw;
+}
+.logo img{ 
+max-width: 60%;
+}
+.titlesection {
+    display: flex;
+    width: 90vw;
+    margin-left: 5vw;
+    margin-top: 3vh;
+}
+.about{
+    width: 45vw;
+}
+
+#fullname{
+    /* display: grid; */
+    justify-content: center;
+    color: red;
+
+}
+
+.subheader{
+    /* display: grid; */
+    justify-content: center;
+    color: red;
+    font-family: Helvetica, sans-serif;
+   
+}
+
+.socialmedia{
+    display: flex;
+    list-style-type: none; 
+     
+}
+.socialmedia li{
+    padding: 0;
+    margin: 0;
+}
+#instagram i{
+    margin: 0 3vw 0 3vw;
+}
+/* .workGrid{
+    display: grid;
+} */
+.hellochef{
+position: absolute;
+width: 219px;
+height: 438px;
+left: 1065px;
+top: 1337px;
+
+}
+/* .item1{
+    grid-area: myArea;
+}
+.grid-container {
+    display: grid;
+    grid-template-areas: 'myArea myArea myArea myArea myArea';
+   
+
+} */
+
+
+/* @media only screen and (max-width: 600){
+    /* my css styles for my grid templet area here*/
+    /*flex-direction: ;
+} */
+
+
+
+
